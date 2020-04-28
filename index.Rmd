@@ -1,0 +1,19 @@
+---
+title: "My Website"
+author: "Politics, Elections and Behavior Lab"
+mail: "pebl@ncf.edu"
+logo: "fw.jpeg"
+output:
+  ncfdown::ncfweb:
+    toc: TRUE
+    number_sections: FALSE
+---
+
+```{r, include = FALSE}
+library(ncfdown)
+```
+
+
+Hello, Website!
+
+
