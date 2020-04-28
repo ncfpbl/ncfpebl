@@ -13,3 +13,4 @@ navbar:
 output:
   ncfdown::ncfweb:
     toc: FALSE
+    number_sections: FALSE

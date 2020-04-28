@@ -1,5 +1,20 @@
 ---
-title: "About This Website"
+title: "Lab Members"
 ---
 
-More about this website.
+<br><br><br>
+
+
+# Principal Investigator
+
+<div class = "row">
+  
+<div class = "col-md-4">
+![](https://jacklreilly.github.io/JLR-zion-2.jpg)
+</div>
+  
+  
+<div class = "col-md-8">
+Welcome. I am an Associate Professor of Political Science at New College of Florida. I study how the context and communication networks in which individuals are embedded structure their political choices, preferences, and behavior, and teach courses on political behavior, American politics, social networks, and quantitative social science.
+</div>
+</div>

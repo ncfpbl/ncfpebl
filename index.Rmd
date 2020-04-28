@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "New College of Florida -- Politics, Elections and Behavior Lab"
 author: "Politics, Elections and Behavior Lab"
 mail: "pebl@ncf.edu"
 logo: "fw.jpeg"
@@ -14,6 +14,8 @@ library(ncfdown)
 ```
 
 
-Hello, Website!
+<br><br><br>
+
+What we do as a lab
 
 
