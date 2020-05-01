@@ -7,6 +7,11 @@ title: "Lab Members"
 
 # Principal Investigator
 
+***
+
+## Jack Reilly {#reilly}
+
+
 <div class = "row">
   
 <div class = "col-md-4">
@@ -15,6 +20,32 @@ title: "Lab Members"
   
   
 <div class = "col-md-8">
+
+**Email:** [jreilly@ncf.edu](mailto:jreilly@ncf.edu)  
+**Website:** https://jacklreilly.github.io/
+
 Welcome. I am an Associate Professor of Political Science at New College of Florida. I study how the context and communication networks in which individuals are embedded structure their political choices, preferences, and behavior, and teach courses on political behavior, American politics, social networks, and quantitative social science.
+</div>
+</div>
+
+<br><br><br>
+
+# Current Lab Members
+
+***
+## Jennifer Lin {#lin}
+
+<div class = "row">
+  
+<div class = "col-md-4">
+![](img/Lin.jpg)
+</div>
+
+<div class = "col-md-8">
+
+**Email:** [jennifer.lin16@ncf.edu](mailto:jennifer.lin16@ncf.eud)  
+**Website:** https://lin-jennifer.github.io/
+
+Hi, I am Jennifer
 </div>
 </div>
